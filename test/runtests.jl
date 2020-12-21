@@ -1,4 +1,4 @@
-using Test, MyAweomePackage
+using Test, MyAwesomePackage
 
 out = plusTwo(3)
 
