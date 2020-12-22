@@ -1,5 +1,5 @@
 # MyAwesomePackage
-A dummy package for the Julia Concise Tutorial
+A dummy package for the [Julia Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages)
 
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://sylvaticus.github.io/MyAwesomePackage/stable)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://sylvaticus.github.io/MyAwesomePackage/dev)
